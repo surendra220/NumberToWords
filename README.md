@@ -17,6 +17,12 @@ The solution is implemented using:
 Note: No external libraries or NuGet packages were used for number-to-words conversion, as per assignment requirements.
 
 ---
+## UI Screenshots
+### Main UI
+![Main UI](Screenshot 2026-05-14 102521.png)
+
+### Result UI
+![Result UI](Screenshot 2026-05-14 102731.png)
 
 ##  Architecture
 
